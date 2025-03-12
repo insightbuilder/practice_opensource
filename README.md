@@ -7,3 +7,4 @@ The idea is to create this repo, and make it the center of the video where I dis
 Welcome to Practice Opensource repo, where we learn how to open source your own projects. There are many reasons for sharing your idea, code and knowledge to the community. You might be using Agentic IDE like Cursor / Cline to build your idea. There will be multiple sittings required before you have any workable solution.
 
 So this repo becomes a place where you will store whatever got created in a sitting. When you build your project in public, initially you will be only one coding, and getting the things setup. The repo allows you to work with multiple versions of yourself. The repo will be the memory bank or storage which your future self can easily look at understand. This type of working is also called Asynchronous Working.
+This is a line update
